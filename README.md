@@ -1,10 +1,21 @@
-YouTube Tutorials
+SNAKE DEMO
 =================
 
-A collection of annotated source code, that I write for my [youtube channel](https://www.youtube.com/channel/UCZXyfVkPTnv-Z0xY9hA9Pyw) :). Feel free to use in any way you want.
+'use strict';
 
-A live demo can be found on my [site](http://www.maxwihlborg.com/youtube-demos/).
+/**
+ *Hello, and welcome to Snake!
+ *
+ * This guide is inteded to introduce beginners to programming and in particular 
+ * javascript; although, experienced programmer still might enjoy this guide!
+ *
+ * For the purposes of this demonstration, we will be following Max Wihlborg's 
+ * Javascript implementation of Snake. You can find links to his content at the 
+ * bottom of the page.
+ */
 
-[http://www.maxwihlborg.com](http://www.maxwihlborg.com)
-
-This content is released under the ([http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)) MIT License.
+/**
+ * This project uses a considerable amount of Max Wihlborg's work.
+ * [http://www.maxwihlborg.com](http://www.maxwihlborg.com)
+ * This content is released under the ([http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)) MIT License.
+ */
